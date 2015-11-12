@@ -2,10 +2,12 @@ ammo.js
 =======
 
 
-**Demos:**
+# Demos
 
  * [Cubes](http://kripken.github.com/ammo.js/examples/webgl_demo/ammo.html)
  * [Heightmap](http://kripken.github.com/ammo.js/examples/webgl_demo_terrain/index.html)
+
+# Overview
 
 **Example code to give you an idea of the API: https://github.com/kripken/ammo.js/blob/master/examples/webgl_demo/ammo.html#L14**
 
